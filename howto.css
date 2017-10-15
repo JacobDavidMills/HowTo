@@ -1,0 +1,55 @@
+.hello {
+  margin: 20px;
+} 
+.outer-box {
+  background-color:grey;
+  margin: 30px 10px;
+  padding:10px;
+  min-height:300px;
+}
+.name {
+  color:white;
+  font-family:tahoma;
+  margin-left:20px;
+}
+.picture {
+  margin-left:20px;
+  float:left;
+  margin-right:20px;
+  margin-bottom:10px;
+  border:1px solid black;
+}
+.bio {
+  font-family:tahoma;
+  padding-left:20px;
+  padding-right:20px;
+  padding-bottom:20px;
+}
+.square {
+  list-style-type:square;
+}
+img {
+  display:block;
+}
+
+h1{ 
+  font-family: 'Lobster', serif;
+  font-size: 45px;
+}
+h2{
+  font-family: 'Lobster', serif;
+  font-size: 35px;
+}
+h3{
+  font-family: 'Lobster', serif;
+  font-size: 25px;
+}
+body{
+  font-family: 'Crete Round', serif;
+  font-size: 17px;
+}
+#ad {
+  float:right;
+  margin:10px;
+  border:1px solid blue;
+}
